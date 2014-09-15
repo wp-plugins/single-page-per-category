@@ -1,13 +1,13 @@
 <?php
 /*
  * Plugin Name: Single Page Per Category
- * Version: 1.0
+ * Version: 1.0.1
  * Plugin URI: http://tybulewicz.com/
  * Description: This plugin enables themes to use custom single.php pages for categories.
  * Author: Tomasz Tybulewicz
  * Author URI: http://tybulewicz.com/
  * Requires at least: 3.8
- * Tested up to: 3.9.1
+ * Tested up to: 4.0
  *
  * @package WordPress
  * @author Tomasz Tybulewicz <tomasz@tybulewicz.com>

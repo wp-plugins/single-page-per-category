@@ -2,8 +2,8 @@
 Contributors: tybulewicz
 Tags: wordpress, plugin, template
 Requires at least: 3.8
-Tested up to: 3.8.1
-Stable tag: 1.0
+Tested up to: 4.0
+Stable tag: 1.0.1
 License: GPLv3 or later
 
 This plugin enables themes to use custom single.php pages for categories.
@@ -27,6 +27,11 @@ Installing "Single Page Per Category" can be done either by searching for "Singl
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
+
+= 1.0.1 =
+* 2014-09-15
+* Minor code fixes
+* Bumped up compatible Wordpress version
 
 = 1.0 =
 * 2014-07-01
