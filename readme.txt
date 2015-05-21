@@ -2,7 +2,7 @@
 Contributors: tybulewicz
 Tags: wordpress, plugin, template
 Requires at least: 3.8
-Tested up to: 4.0
+Tested up to: 4.2.2
 Stable tag: 1.0.1
 License: GPLv3 or later
 

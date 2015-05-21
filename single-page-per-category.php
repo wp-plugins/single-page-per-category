@@ -7,7 +7,7 @@
  * Author: Tomasz Tybulewicz
  * Author URI: http://tybulewicz.com/
  * Requires at least: 3.8
- * Tested up to: 4.0
+ * Tested up to: 4.2.2
  *
  * @package WordPress
  * @author Tomasz Tybulewicz <tomasz@tybulewicz.com>
